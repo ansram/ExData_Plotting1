@@ -14,6 +14,9 @@
 #  unzip("./data/exdata_data_household_power_consumption.zip", overwrite = T, exdir = "./data")
 #}
 
+
+#data.txt contains only records during the period 2007-02-01 and 2007-02-02.
+
 #read the data....
 
 curfile <- "I:\\course\\coursera\\set5\\exploratory_data_analysis\\hw\\data.txt"
